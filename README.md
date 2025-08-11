@@ -69,7 +69,7 @@ Edit
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/youtube-clone.git
+   git clone https://github.com/sagar-bn/youtube.git
 Open the project folder
 
 bash
